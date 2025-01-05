@@ -6,7 +6,7 @@
 </p>
 
 <h1>DNS</h1>
-The following below highlights the skills and abilities that I possess in regards to Domain Name System. It showcases skills in configuring settings and creating records.<br />
+The following below highlights the skills and abilities that I possess in regards to Domain Name System. It showcases skills in configuring settings and creating records in a tutorial format.<br />
 
 
 <h2>Environments and Technologies Used</h2>
